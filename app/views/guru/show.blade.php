@@ -1,0 +1,1 @@
+/var/www/html/aps/app/views/Gurus/show.blade.php
